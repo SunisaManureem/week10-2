@@ -1,0 +1,2 @@
+source D:/week10-2/LED_Flash_with_component/build/bootloader/gdbinit/symbols
+source D:/week10-2/LED_Flash_with_component/build/bootloader/gdbinit/connect

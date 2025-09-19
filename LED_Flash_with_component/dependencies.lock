@@ -1,0 +1,18 @@
+dependencies:
+  LED:
+    component_hash: 7da3b8ddcb7a97e37f0ffdd5a3c28679f53b2c09b3c16257fd000bc15c049983
+    dependencies: []
+    source:
+      git: https://github.com/SunisaManureem/week10-1.git
+      path: 66030292/LED
+      type: git
+    version: 8e11f3fe1ff6345ab9818b81fac15dec69288d81
+  idf:
+    source:
+      type: idf
+    version: 5.5.1
+direct_dependencies:
+- LED
+manifest_hash: fb8ddd765fe8357c78c197861b4a6db6191f1a57da480c59fc16dd4ef8ff81f6
+target: esp32
+version: 2.0.0
